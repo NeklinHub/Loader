@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://load.neklinscript.site"))()
+loadstring(game:HttpGet("https://neklin-loader.neklikn.workers.dev"))()
